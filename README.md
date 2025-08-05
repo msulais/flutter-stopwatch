@@ -20,7 +20,7 @@
 ![build version](https://img.shields.io/badge/Build%20version-1.0.2-blue?style=for-the-badge)
 ![last update](https://img.shields.io/badge/Last%20update-June%201%2C%202023-yellow?style=for-the-badge)
 
-> Play store link: [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch)
+> Play store link: [Stopwatch](https://play.google.com/store/apps/details?id=com.redmerah.stopwatch) (not available anymore)
 
 Stopwatch is a simple yet powerful app that lets you keep track of time with ease. Whether you need to time your workout, your cooking, or any other activity, Stopwatch has got you covered.
 
